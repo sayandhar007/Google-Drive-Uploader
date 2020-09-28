@@ -69,7 +69,7 @@ python3 bot.py
 
  `Get the bot token by sending /newbot to @BotFather and follow the on screen prompt.`
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/sayandhar007/Google-Drive-Uploader)
 
 
 ### My Hidden Thanks To  :heart: 
